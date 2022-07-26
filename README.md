@@ -1,7 +1,8 @@
 # Fake-Obfuscator-Remover
 This is a fake obfuscator remover, it works quite well and so far it has no errors, the best thing about all this is that this program will receive constant updates as new obfuscators come out with new fake obfuscators and we will add it ❤️‍🔥
 
-<h3 align="left">This deobfuscator work for "DotNetPatcherObfuscatorAttribute",
+This deobfuscator work for 
+-"DotNetPatcherObfuscatorAttribute",
 -"DotNetPatcherPackerAttribute",
 -"DotfuscatorAttribute",
 -"ObfuscatedByGoliath",
@@ -33,7 +34,5 @@ This is a fake obfuscator remover, it works quite well and so far it has no erro
 -"Beds-Protector",
 -"OiCuntJollyGoodDayYeHavin_____________________________________________________",
 -"ZYXDNGuarder":</h3>
-<p align="left">
-</p>
 
 
