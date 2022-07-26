@@ -1,0 +1,18 @@
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\bin\Debug\net6.0\FakeObfuscator Remover.exe
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\bin\Debug\net6.0\FakeObfuscator Remover.deps.json
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\bin\Debug\net6.0\FakeObfuscator Remover.runtimeconfig.json
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\bin\Debug\net6.0\FakeObfuscator Remover.dll
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\bin\Debug\net6.0\FakeObfuscator Remover.pdb
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\bin\Debug\net6.0\de4dot.blocks.dll
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\bin\Debug\net6.0\dnlib.dll
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.csproj.AssemblyReference.cache
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.AssemblyInfoInputs.cache
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.AssemblyInfo.cs
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.csproj.CoreCompileInputs.cache
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.csproj.CopyComplete
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.dll
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\refint\FakeObfuscator Remover.dll
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.pdb
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\FakeObfuscator Remover.genruntimeconfig.cache
+C:\Users\hamstersito gordo\Desktop\programming\deobfuscator\4\FakeObfuscator Remover\FakeObfuscator Remover\obj\Debug\net6.0\ref\FakeObfuscator Remover.dll
