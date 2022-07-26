@@ -33,6 +33,9 @@ This is a fake obfuscator remover, it works quite well and so far it has no erro
 - "CrytpoObfuscator",
 - "Beds-Protector",
 - "OiCuntJollyGoodDayYeHavin_____________________________________________________",
-- "ZYXDNGuarder":</h3>
+- "ZYXDNGuarder",
+
+Photo: ![imagen](https://user-images.githubusercontent.com/95001569/181104474-76b4b79f-5cdf-4183-8d65-8a293afb46b7.png)
+
 
 
